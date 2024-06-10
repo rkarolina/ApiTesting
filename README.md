@@ -86,6 +86,7 @@ Used to request the code review and merge to the selected branch.
 7. (Optional in this project) Pick reviewers to check your code.
 8. Click the "Create pull request" button.
 9. Click the "Merge pull request" button (after confirming with a team members and checking if we don't have any conflicts)
+10. Click "Confirm merge".
 
 <p>
 
