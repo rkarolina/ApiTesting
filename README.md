@@ -1,8 +1,8 @@
 # About me
 
 Hi!
-My name is Karolina and I'm entusiastic about the IT industry 💙
-I like to know how the systems are structured and where can I find possible errors and improvements in the applications.
+My name is Karolina and I'm entusiastic about the IT industry 💙 \
+I like to know how the systems are structured and where can I find possible errors and improvements in the applications. \
 I have finished the IT Management (Applied Computer Science) studies and decided to develop my skills in software testing, business analysis and data migration.
 
 <details>
@@ -12,7 +12,7 @@ I have finished the IT Management (Applied Computer Science) studies and decided
 - [Manual testing of web applications](https://github.com/rkarolina/rkarolina/blob/main/Portfolio%20-%20manual%20testing.md)
 - [Projects - test automation](https://github.com/rkarolina/Challenge_portfolio_karolina)
 - [My own database created from scratch](https://github.com/rkarolina/job-offers-management-system)
-- [My T-SQL repository with queries based on existing database (in progress)](https://github.com/rkarolina/ApiTesting)
+- [My T-SQL repository with queries based on existing database (in progress)](https://github.com/rkarolina/AdventureWorks)
 
 </details>
 
@@ -29,8 +29,8 @@ I have finished the IT Management (Applied Computer Science) studies and decided
 
 ## Introduction
 
-The purpose of this repository is to gather skills regarding the API Testing.
-I'm taking part in COLT 1/2024 initiative led by Anna Czyrko - experienced Senior Tester and founder of <b>[Cherry-IT](http://cherry-it.pl/) </b> blog.
+The purpose of this repository is to gather skills regarding the API Testing. \
+I'm taking part in COLT 1/2024 initiative led by Anna Czyrko - experienced Senior Tester and founder of <b>[Cherry-IT](http://cherry-it.pl/) </b> blog. \
 Postman and Trello is used in this project.
 
 ## Tools
@@ -45,7 +45,7 @@ Postman and Trello is used in this project.
 <summary> <b> adding and pushing the file to Github </b></summary>
 <p>
 
-I have learned how to manage my files in the Terminal.
+I have learned how to manage my files in the Terminal. \
 After cloning my repository I used the following commands to add my first commit to Github:
 
 - <b> git add <NameOfMyFile$> </b>
