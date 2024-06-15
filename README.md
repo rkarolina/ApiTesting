@@ -33,6 +33,9 @@ The purpose of this repository is to gather skills regarding the API Testing. \
 I'm taking part in COLT 1/2024 initiative led by Anna Czyrko - experienced Senior Tester and founder of <b>[Cherry-IT](http://cherry-it.pl/) </b> blog. \
 Postman and Trello is used in this project.
 
+<b>Links:</b>
+[Trello - project documentation](https://developer.atlassian.com/cloud/trello/)
+
 ## Tools
 
 <a name='tools'></a>
@@ -95,6 +98,21 @@ Used to request the code review and merge to the selected branch.
 ### Postman
 
 <a name='postman'></a>
+
+During the work with this tool, my requests returned different types of responses describing what kind of error / status occured in specific web applications.
+
+<b>HTTP Status Messages:</b>
+1xx: Information
+2xx: Successful
+3xx: Redirection
+4xx: Client Error
+5xx: Server Error
+
+<b>Links:</b>
+
+- [HTTP Status Messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
+- [Kod odpowiedzi HTTP](https://pl.wikipedia.org/wiki/Kod_odpowiedzi_HTTP)
+- [Rest API - Trello](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-group-boards)
 
 ### Devtools
 
